@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Inception",
+        "genero": "Ciencia Ficción",
+        "calificacion": 9.0,
+        "comentarios": "Una trama compleja y visualmente impresionante."
+    },
+    {
+        "id": 2,
+        "titulo": "The Godfather",
+        "genero": "Drama/Crimen",
+        "calificacion": 9.2,
+        "comentarios": "Un clásico del cine que define una era."
+    },
+    {
+        "id": 3,
+        "titulo": "The Dark Knight",
+        "genero": "Acción/Suspenso",
+        "calificacion": 9.0,
+        "comentarios": "Un excelente desarrollo de personajes y una gran actuación de Heath Ledger."
+    },
+    {
+        "id": 4,
+        "titulo": "Parasite",
+        "genero": "Thriller/Drama",
+        "calificacion": 8.6,
+        "comentarios": "Una crítica social brillante envuelta en un thriller emocionante."
+    }
+]
