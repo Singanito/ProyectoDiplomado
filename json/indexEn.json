@@ -1,0 +1,20 @@
+{
+    "title": "Fictitious Space Travel",
+    "welcome": "Welcome to the Space Travel Configurator",
+    "description": "Explore the endless possibilities of the universe with our space travel simulator...",
+    "purposeTitle": "Purpose of Fictitious Space Travel",
+    "purposeDescription": "Our configurator allows you to imagine and design space travels as if they were real...",
+    "purposeList": [
+        "Promote creativity and imagination.",
+        "Foster interest in space science and technology.",
+        "Have fun while designing your own interstellar journey."
+    ],
+    "howItWorksTitle": "How Does the Space Travel Simulator Work?",
+    "howItWorksDescription": "The configurator is designed to be easy and fun to use...",
+    "howItWorksSteps": [
+        "Select your destination: Choose between planets, galaxies, and fictitious missions.",
+        "Design your ship: Customize every detail, from technology to interior design.",
+        "Explore: Visualize and share your fictitious space journey with friends."
+    ],
+    "followUs": "Follow Us on Our Social Networks"
+}

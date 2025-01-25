@@ -1,0 +1,20 @@
+{
+    "title": "Evaluación de Películas",
+    "welcome": "Bienvenido al Evaluador de Películas",
+    "description": "Descubre y evalúa tus películas favoritas con nuestro sistema de evaluación... ¡Comparte tus opiniones y recomendaciones!",
+    "purposeTitle": "Propósito de la Evaluación de Películas",
+    "purposeDescription": "Nuestro evaluador está diseñado para ayudarte a reflexionar sobre las películas que ves y compartir tus opiniones de manera estructurada.",
+    "purposeList": [
+      "Fomentar el análisis crítico y la apreciación cinematográfica.",
+      "Compartir recomendaciones basadas en tus evaluaciones.",
+      "Crear un registro personal de las películas que has visto."
+    ],
+    "howItWorksTitle": "¿Cómo Funciona el Evaluador de Películas?",
+    "howItWorksDescription": "El evaluador está diseñado para ser fácil de usar y personalizable para cada película.",
+    "howItWorksSteps": [
+      "Selecciona una película: Busca por género, director o título.",
+      "Evalúa: Califica aspectos como la trama, las actuaciones, la cinematografía y más.",
+      "Comparte: Guarda y comparte tu evaluación con amigos o en redes sociales."
+    ],
+    "followUs": "Síguenos en Nuestras Redes Sociales"
+  }

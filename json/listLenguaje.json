@@ -1,0 +1,34 @@
+{
+  "es": {
+    "title": "Formulario de Evaluación de Películas",
+    "menu": ["Inicio", "Películas", "Contacto"],
+    "listadoDeEvaluaciones": "Listado de Evaluaciones Realizadas",
+    "tituloPelicula": "Título de la Película",
+    "genero": "Género",
+    "director": "Director",
+    "actuaciones": "Actuaciones",
+    "guion": "Guion",
+    "fotografia": "Fotografía",
+    "bandaSonora": "Banda Sonora",
+    "calificacionGeneral": "Calificación General",
+    "comentariosAdicionales": "Comentarios Adicionales",
+    "acciones": "Acciones",
+    "redesSociales": "Síguenos en Redes Sociales"
+  },
+  "en": {
+    "title": "Movie Evaluation Form",
+    "menu": ["Home", "Movies", "Contact"],
+    "listadoDeEvaluaciones": "List of Completed Evaluations",
+    "tituloPelicula": "Movie Title",
+    "genero": "Genre",
+    "director": "Director",
+    "actuaciones": "Performances",
+    "guion": "Screenplay",
+    "fotografia": "Cinematography",
+    "bandaSonora": "Soundtrack",
+    "calificacionGeneral": "Overall Rating",
+    "comentariosAdicionales": "Additional Comments",
+    "acciones": "Actions",
+    "redesSociales": "Follow Us on Social Media"
+  }
+}

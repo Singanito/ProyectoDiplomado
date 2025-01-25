@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>index.html</link>
+    </item>
+    <item>
+        <nombre>Lista de Ideas</nombre>
+        <link>list.html</link>
+    </item>
+    <item>
+        <nombre>Registrar Pèlicula</nombre>
+        <link>form.html</link>
+    </item>
+    <item>
+        <nombre>Recomendaciones</nombre>
+        <link>recommendations.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>community.html</link>
+    </item>
+
+    <item>
+        <nombre>FAQ</nombre>
+        <link>faq.html</link>
+    </item>
+    <item>
+        <nombre>Contacto</nombre>
+        <link>contact.html</link>
+    </item>
+    <item>
+        <nombre>Login</nombre>
+        <link>login.html</link>
+    </item>
+</menu>
